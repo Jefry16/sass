@@ -1,0 +1,21 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile-sass": "node-sass ./app.scss ./app.css -w"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "jc",
+  "license": "ISC",
+  "dependencies": {
+    
+  }
+}
